@@ -11,10 +11,3 @@ data_non_errands = pd.read_csv(file_non_errands, names=['sentence', 'label'], se
 df = pd.concat([data_errands, data_non_errands])
 df = shuffle(df)
 df.to_csv('../data/combined.txt')
-
-
-#to do
-'''
-replace symbols with nothing
-switch all to lowercase
-'''

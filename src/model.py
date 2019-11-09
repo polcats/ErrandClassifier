@@ -26,7 +26,8 @@ def train_model(data_training, model = None):
 	labels = data_training['label'].values
 
 	# training data split
-	sentences_train, sentences_test, label_train, labels_test = train_test_split(sentences, labels, test_size=0.25, random_state=1000)
+	sentences_train, sentences_test, label_train, labels_test = train_test_split(
+		sentences, labels, test_size=0.25, random_state=1000)
 
 	# tokenize words
 	tokenizer = Tokenizer(num_words=5000)
