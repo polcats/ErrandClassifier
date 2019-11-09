@@ -10,15 +10,16 @@ from keras.models import load_model
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from sklearn.model_selection import train_test_split
+from sklearn.utils import shuffle
 
-epochs = 100
+epochs = 10
 batch_size = 10
 maxlen = 100
 
 def generate_model(data_training):
 	model, train_acc, test_acc = train_model(data_training);
 	print_accuracy(train_acc, test_acc)
-	save_model(model, test_acc, train_acc)
+	save_model(model, train_acc, test_acc)
 
 def train_model(data_training, model = None):
 	sentences = data_training['sentence'].values
@@ -50,8 +51,9 @@ def train_model(data_training, model = None):
 
 def create_model():
 	model = Sequential()
-	model.add(Dense(300, input_dim=maxlen, activation='relu'))
-	model.add(Dense(150, activation='relu'))
+	model.add(Dense(150, input_dim=maxlen, activation='relu'))
+	model.add(Dense(300, activation='relu'))
+	# model.add(Dense(250, activation='relu'))
 	model.add(Dense(15, activation='relu'))
 	model.add(Dense(1, activation='sigmoid'))
 	model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
@@ -77,12 +79,23 @@ def save_model(model, train_acc, test_acc):
 
 	model.save(str(model_dir) + "" + str(test_train_avg) + " " + str(model_name) + ".hdf5")
 
-def retrain_model(file_name, data_training):
+def retrain_model(file_name, data_training, times = 1):
 	model = load_model(file_name)
 	model.summary()
-	model, train_acc, test_acc = train_model(data_training);
+	train_acc = 0
+	test_acc = 0
+
+	while times > 0:
+		times = times - 1
+		data_training = shuffle(data_training)
+		model, train_acc, test_acc = train_model(data_training)
+
 	print_accuracy(train_acc, test_acc)
-	# save_model(model, test_acc, train_acc)
+	save_model(model, train_acc, test_acc)
+
+def model_summary(file_name):
+	model = load_model(file_name)
+	model.summary()
 
 def avg_accuracy(train_acc, test_acc):
  	return str(((train_acc + test_acc) * 100) / 2.0)[0:4]
