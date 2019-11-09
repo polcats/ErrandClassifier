@@ -17,7 +17,10 @@ embedding_dim = 50
 maxlen = 100
 output_file = 'output.txt'
 
-def generate_model(sentences, labels):
+def generate_model(data_training):
+	sentences = data_training['sentence'].values
+	labels = data_training['label'].values
+	
 	model, train_acc, test_acc = train_model(sentences, labels);
 	print_accuracy(train_acc, test_acc)
 	save_model(model, test_acc, train_acc)
