@@ -3,6 +3,7 @@ os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz2.38/bin'
 
 from datetime import datetime
 
+from keras import layers
 from keras.layers import Dense
 from keras.models import Sequential
 from keras.utils import plot_model
@@ -15,6 +16,9 @@ from sklearn.utils import shuffle
 epochs = 10
 batch_size = 10
 maxlen = 100
+embedding_dim = 50
+num_filters = 32
+kernel_size = 3
 
 def generate_model(data_training):
 	model, train_acc, test_acc = train_model(data_training);
@@ -35,13 +39,16 @@ def train_model(data_training, model = None):
 	tokens_train = tokenizer.texts_to_sequences(sentences_train)
 	tokens_test = tokenizer.texts_to_sequences(sentences_test)
 
+    # Adding 1 because of reserved 0 index
+	vocab_size = len(tokenizer.word_index) + 1
+
 	# Pad sequences with zeros
 	tokens_train = pad_sequences(tokens_train, padding='post', maxlen=maxlen)
 	tokens_test = pad_sequences(tokens_test, padding='post', maxlen=maxlen)
 
 	# Create the model
 	if model == None:
-		model = create_model()
+		model = create_model(vocab_size)
 
 	hist = model.fit(tokens_train, label_train, epochs=epochs, batch_size=batch_size)
 
@@ -50,11 +57,24 @@ def train_model(data_training, model = None):
 
 	return model, train_acc, test_acc
 
-def create_model():
+def _create_model():
 	model = Sequential()
 	model.add(Dense(150, input_dim=maxlen, activation='relu'))
 	model.add(Dense(300, activation='relu'))
 	# model.add(Dense(250, activation='relu'))
+	model.add(Dense(15, activation='relu'))
+	model.add(Dense(1, activation='sigmoid'))
+	model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+	plot_model(model, show_shapes=True, to_file='../model.png')
+
+	return model
+
+def create_model(vocab_size):
+	model = Sequential()
+	model.add(layers.Embedding(vocab_size, embedding_dim, input_length=maxlen))
+	model.add(layers.Conv1D(num_filters, kernel_size=kernel_size, activation='relu'))
+	model.add(layers.GlobalMaxPooling1D())
 	model.add(Dense(15, activation='relu'))
 	model.add(Dense(1, activation='sigmoid'))
 	model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
