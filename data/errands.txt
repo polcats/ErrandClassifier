@@ -1,98 +1,98 @@
-encode documents,1
-send emails,1
-clean house,1
-encode,1
-clean house and wash dishes,1
-Process government documents,1
-buy groceries,1
-help me carry stuff,1
-pay bills,1
-shop for groceries,1
-deliver some foods,1
-print my documents,1
-carry my cargo,1
-buy me something in the store,1
-clean the house,1
-drive me somewhere,1
-cook food,1
-pick me up at this location and drop me at this location,1
-Walk dog,1
-clean bedroom,1
-drive family around,1
-get broken electronics fixed,1
-bring me some coupon bonds,1
-buy coupon bonds and manila paper,1
-pay the bills,1
-buy from the market,1
-wash clothes,1
-wake me up,1
-buy bread,1
-carry heavy things,1
-buy groceries,1
-buy 1 kilo of rice,1
-buy groceries,1
-wash dishes,1
-cook rice,1
-buy food and buy load,1
-teach something and give advice,1
-cook food,1
-wash my hair,1
-checking activities of students,1
-babysit,1
-clean the house,1
-submit reports,1
-buy medicine,1
-Buy grocery,1
-Buy medicine at the pharmacy,1
-Water the plants,1
-Make Assignments,1
-Cook for me,1
-Make fast task,1
-Generate reports,1
-Pay bills for water and electricity,1
-Clean the house,1
-Pay bills,1
-Make Teachers Guide,1
-Make Lecture planner,1
-Make projects,1
-Check the mechanics of written research papers,1
-Pay the bills,1
-Write papers,1
-Design computer related tasks,1
-Buy groceries,1
-Check the activites of my niece and nephews,1
-Prepare reports,1
-Translate readings,1
-Write a communication letter,1
-Wash dishes clothes,1
-Conduct a survey,1
-Create a dll,1
-Help with assignments,1
-Make instructional materials,1
-Write my thesis proposal,1
-fetch cab,1
-buy food and water,1
-buy meat and buy fish and buy vegetables,1
-do survey for saleable products for the business,1
-make communication letter,1
-buy ingridients,1
-Draw drafting plates,1
-wash underwears,1
-document photos,1
-buy coffee,1
-feed cat,1
-fix records,1
-do the laundry,1
-pick up laundry,1
-clean the surroundings,1
-carry heavy luggage,1
-Fix my schedule,1
-walk the dogs,1
-wash my car and clean the garage,1
-buy medicine,1
-iron my clothes,1
-sweep the floor,1
-bring food to my grandfather two houses from our house,1
-print my homework,1
-Clean area and set up chairs,1
-Check the completeness of documents,1
+encode documents~1
+send emails~1
+clean house~1
+encode~1
+clean house and wash dishes~1
+Process government documents~1
+buy groceries~1
+help me carry stuff~1
+pay bills~1
+shop for groceries~1
+deliver some foods~1
+print my documents~1
+carry my cargo~1
+buy me something in the store~1
+clean the house~1
+drive me somewhere~1
+cook food~1
+pick me up at this location and drop me at this location~1
+Walk dog~1
+clean bedroom~1
+drive family around~1
+get broken electronics fixed~1
+bring me some coupon bonds~1
+buy coupon bonds and manila paper~1
+pay the bills~1
+buy from the market~1
+wash clothes~1
+wake me up~1
+buy bread~1
+carry heavy things~1
+buy groceries~1
+buy 1 kilo of rice~1
+buy groceries~1
+wash dishes~1
+cook rice~1
+buy food and buy load~1
+teach something and give advice~1
+cook food~1
+wash my hair~1
+checking activities of students~1
+babysit~1
+clean the house~1
+submit reports~1
+buy medicine~1
+Buy grocery~1
+Buy medicine at the pharmacy~1
+Water the plants~1
+Make Assignments~1
+Cook for me~1
+Make fast task~1
+Generate reports~1
+Pay bills for water and electricity~1
+Clean the house~1
+Pay bills~1
+Make Teachers Guide~1
+Make Lecture planner~1
+Make projects~1
+Check the mechanics of written research papers~1
+Pay the bills~1
+Write papers~1
+Design computer related tasks~1
+Buy groceries~1
+Check the activites of my niece and nephews~1
+Prepare reports~1
+Translate readings~1
+Write a communication letter~1
+Wash dishes clothes~1
+Conduct a survey~1
+Create a dll~1
+Help with assignments~1
+Make instructional materials~1
+Write my thesis proposal~1
+fetch cab~1
+buy food and water~1
+buy meat and buy fish and buy vegetables~1
+do survey for saleable products for the business~1
+make communication letter~1
+buy ingridients~1
+Draw drafting plates~1
+wash underwears~1
+document photos~1
+buy coffee~1
+feed cat~1
+fix records~1
+do the laundry~1
+pick up laundry~1
+clean the surroundings~1
+carry heavy luggage~1
+Fix my schedule~1
+walk the dogs~1
+wash my car and clean the garage~1
+buy medicine~1
+iron my clothes~1
+sweep the floor~1
+bring food to my grandfather two houses from our house~1
+print my homework~1
+Clean area and set up chairs~1
+Check the completeness of documents~1
