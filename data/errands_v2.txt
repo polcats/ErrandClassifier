@@ -1,0 +1,287 @@
+encode documents,1
+document encoding,1
+encoding of documents,1
+encoding of research,1
+encode assignment,1
+encode report,1
+send emails,1
+email sending,1
+sending of emails,1
+send mail electronically,1
+send message through email,1
+send documents through email,1
+clean entire house,1
+cleaning the entire house,1
+whole house cleaning,1
+clean the whole house,1
+clean everything inside the house,1
+clean my family's house entirely,1
+clean bedroom,1
+cleaning the bedroom,1
+bedroom cleaning,1
+clean my room,1
+clean my sleeping room,1
+clean a room,1
+wash dishes,1
+wash the plates,1
+washing of the dishes,1
+washing of the plates,1
+wash the utensils,1
+wash the cooking utensils,1
+process some government documents,1
+process government reports,1
+process government papers,1
+process important government reports,1
+process documents for the government,1
+process some reports for the government,1
+buy groceries at the nearest grocery store,1
+buy grocery at the store,1
+buy the listed items at the nearest grocery store,1
+buy icecream at the grocery store,1
+buy frozen goods at the grocery store,1
+buy some ingredients at the nearest grocery store,1
+carry some  of my stuff,1
+carry some of my things,1
+carry my backpack,1
+carry my things,1
+carry my backpack,1
+pay water and electric bills,1
+pay the water bill,1
+pay the electric bill,1
+pay my electric bill,1
+pay my water bill,1
+deliver some food to a friend,1
+deliver food to my mother,1
+deliver food to my friends,1
+deliver food to my family,1
+deliver my friends food,1
+deliver my friends food,1
+print someones documents or files,1
+print my friends files,1
+print my classmate's documents,1
+print my documents,1
+print my files,1
+transport my cargo,1
+trasporting a cargo for me,1
+transport my shipment,1
+transporting a shipment for me,1
+carrying a heavy luggage,1
+carry heavy luggages,1
+carry my heavy luggage,1
+carry a heavy appliance,1
+carrying my heavy luggage,1
+carrying all of my heavy luggage,1
+carry all heavy luggage,1
+carry someones heavy luggage,1
+drive me to the mall,1
+drive my mother and father to the mall,1
+drive me and my friend to the mall,1
+drive my relative to a tourist spot,1
+drive my mother and father to a tourist spot,1
+drive me, my mother, and my father to the mall,1
+cook food for our snacks,1
+cook some snacks,1
+cook food for breakfast,1
+cook food for lunch,1
+cook for dinner,1
+cook a food,1
+walking a dog,1
+walk the dog outside,1
+walk a dog outside,1
+walk my dog outside,1
+walking my dog outside,1
+walking a dog in the park,1
+stroll with my dog,1
+stroll together with my dog,1
+strolling outside with my dog,1
+fetching me and bring me home,1
+come and fetch me then lets go home,1
+fetch me and my friend and bring us to our home,1
+fetch my family members then bring them home,1
+fetch my brother from school,1
+fetch my grandmother and bring her home,1
+getting broken electronics fixed,1
+fix broken electronics,1
+fixing of broken electronics,1
+fix electronics that is broken,1
+fix non funtional electronics,1
+fix a broken electronic,1
+bring someone some bondpapers,1
+bring bondpapers,1
+bring bondpaper to someone,1
+bring bondpaper,1
+bring my friend bondpapers,1
+bring my classmate some bondpapers,1
+washing my clothes with a machine,1
+wash my clothes,1
+wash my dirty clothes,1
+put my dirty clothes in the washing machine,1
+buying bread from the bakery,1
+buy some bread from the bakery,1
+buying some bread from the bakery,1
+buy bread from the bakery,1
+buy a kilo of rice in the store,1
+buy rice from the store,1
+buy some rice, at least a kilo will do,1
+buying rice,1
+buy food and buy load,1
+buy load and buy food,1
+buy food and load from the store,1
+buying load and food from the store,1
+buying medicine from the pharmacy,1
+buying paracetamol from the pharmacy,1
+buying medicine from the pharmacy,1
+buy medicine from the pharmacy,1
+buy medicine from the store,1
+buying medicine from the store,1
+buying paracetamol from the store,1
+cook rice,1
+cook some rice,1
+cooking rice for dinner,1
+cook a cup of rice,1
+cook rice in my place,1
+checking activities or seatworks of students,1
+check the seatworks of my students,1
+check my students activites,1
+checking activites of my students,1
+checking seatworks of my students,1
+babysitting my child,1
+babysit my child,1
+babysit my child while i'm at work,1
+babysitting my child for a couple of days,1
+submitting reports to an office,1
+submit reports to the office,1
+submit reports,1
+submitting documents to the office,1
+watering the plants,1
+water the plants,1
+water all the plants in my garden,1
+watering the plants along the corridor,1
+writing an essay about nihilism,1
+write an essay,1
+write a 5-paragraph essay,1
+write the abstract part of my research,1
+write a communication letter,1
+write a communication letter to my boss,1
+writing a communication letter to the sister company,1
+do my economics homework,1
+doing some homework,1
+do my calculus homework,1
+do my english homework,1
+do my child's homework,1
+designing a tarpaulin or webpage,1
+design a tarpaulin,1
+design a webpage,1
+designing a webpage or a tarpaulin for my business,1
+translate readings to another language,1
+translate my essay to english,1
+translate some documents to our language,1
+translating some papers to another language,1
+translate this paragraph to english,1
+conduct a survey,1
+conducting surveys,1
+conduct a survey to 150 people,1
+conduct some surveys about poverty,1
+make educational materials,1
+making some educational materials,1
+make educational materials about human digestive system,1
+make me various educational materials,1
+make the educational materials for my lecture,1
+write someones thesis proposal,1
+write me a thesis proposal,1
+write someone a thesis proposal,1
+write my thesis proposal,1
+writing a graduate program thesis,1
+hail a taxi,1
+hail me a taxi,1
+help my mom hail a taxi,1
+hail a taxi for me,1
+buy drinking water,1
+buy drinking water at the grocery,1
+buying a gallon of drinking water,1
+buy me a drinking water,1
+buy meat fish and vegetables,1
+buying fish meat and vegetables,1
+buy vegetables meat and fish,1
+buying fish vegetables and meat at the market,1
+buy meat fish and vegetables at the market,1
+buy additional ingredients,1
+buying more ingredients,1
+buy me additional ingredients,1
+buying more ingredients,1
+buy me additional ingredients,1
+draw drafting plates,1
+draw my plates,1
+drawing my design plates,1
+draw my friends plates,1
+drawing design plates for me,1
+documenting or sorting photos,1
+document and sort my photos,1
+sort and document my photos,1
+documenting and sorting photos,1
+document and sort event photos,1
+buy coffee at starbucks store,1
+buy kopiko coffee at the store,1
+buying coffee at the store,1
+buy kopitea coffee at the store,1
+buy coffee at the grocery store,1
+feed my pet cat and dog,1
+feeding my cat and dog,1
+feed cat and dog,1
+feed my pets,1
+feeding my pet cats and dogs,1
+pick up laundry at the shop,1
+pick up laundry at the shop,1
+pick up my laundry,1
+picking my laundry,1
+pick up my laundry at the shop,1
+clean the surroundings,1
+cleaning the surroundings,1
+clean the surroundings of our house,1
+clean surroundings of garden,1
+cleaning the surroundings of the school,1
+clean the garage,1
+cleaning our garage,1
+cleaning my friends garage,1
+clean my wifes dirty garage,1
+clean my garage,1
+wash my car,1
+wash my friends car,1
+wash my wifes car,1
+washing our car,1
+wash my two cars,1
+iron some clothes,1
+ironing my clothes,1
+iron all my clothers,1
+ironing my work clothes,1
+ironing my daughters clothes,1
+sweep the floor,1
+sweeping the balcony floor,1
+sweeping our floor,1
+sweep my floor,1
+sweep my bedroom floor,1
+set up venue chairs,1
+setting up the chairs at the venue,1
+set up the chairs,1
+setting up the chairs in the venue,1
+set up the chairs at the venue,1
+buy mineral water in the store,1
+buy mineral water at convenience store,1
+buying mineral water at the grocery,1
+buy me a mineral water,1
+buy mineral water,1
+look after a shop,1
+looking after my shop,1
+look after my friends shop,1
+looking after the shop,1
+look after our shop,1
+talking in a seminar or presentation,1
+talking in a seminar and presentation,1
+talk at a seminar and presentation,1
+talk at a presentation and seminar,1
+talking to a seminar and presentation,1
+preparing outfit or clothes,1
+prepare an outfit or clothes,1
+prepare me an outfit using my clothes,1
+prepare me a set of clothes and outfit,1
+preparing clothes and outfit,1
