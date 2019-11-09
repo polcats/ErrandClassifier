@@ -89,8 +89,8 @@ def retrain_model(file_name, data_training, times = 1):
 		times = times - 1
 		data_training = shuffle(data_training)
 		model, train_acc, test_acc = train_model(data_training)
+		print_accuracy(train_acc, test_acc)
 
-	print_accuracy(train_acc, test_acc)
 	save_model(model, train_acc, test_acc)
 
 def model_summary(file_name):

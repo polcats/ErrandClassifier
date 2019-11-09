@@ -2,7 +2,7 @@
 from data_preprocessor import * 
 from model import *
 
-current_model = "../models/90s/91.9 93.8 90.1 09-11-2019 20-28-22.hdf5"
+current_model = "../models/90s/92.1 90.0 94.1 09-11-2019 20-51-52.hdf5"
 
 def do_action(inp):
 	if inp == 0:
@@ -35,9 +35,9 @@ def print_actions():
 	print("0. Exit")
 	print("1. Generate a new model")
 	print("2. Generate multiple models")
-	print("3. Retrain a model")
-	print("4. Retrain multiple times")
-	print("5. Retrain multiple loops")
+	print("3. Retrain model")
+	print("4. Multiple retrain and save per training")
+	print("5. Multiple retrain and save final result")
 	print("6. Show current model summary")
 
 def get_input(msg, min = None, max = None):
