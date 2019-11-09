@@ -6,25 +6,24 @@ from datetime import datetime
 from keras.layers import Dense
 from keras.models import Sequential
 from keras.utils import plot_model
+from keras.models import load_model
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from sklearn.model_selection import train_test_split
 
-epochs = 10
+epochs = 100
 batch_size = 10
-embedding_dim = 50
 maxlen = 100
-output_file = 'output.txt'
 
 def generate_model(data_training):
-	sentences = data_training['sentence'].values
-	labels = data_training['label'].values
-
-	model, train_acc, test_acc = train_model(sentences, labels);
+	model, train_acc, test_acc = train_model(data_training);
 	print_accuracy(train_acc, test_acc)
 	save_model(model, test_acc, train_acc)
 
-def train_model(sentences, labels, model = None):
+def train_model(data_training, model = None):
+	sentences = data_training['sentence'].values
+	labels = data_training['label'].values
+
 	# training data split
 	sentences_train, sentences_test, label_train, labels_test = train_test_split(sentences, labels, test_size=0.25, random_state=1000)
 
@@ -51,8 +50,9 @@ def train_model(sentences, labels, model = None):
 
 def create_model():
 	model = Sequential()
-	model.add(Dense(250, input_dim=maxlen, activation='relu'))
-	model.add(Dense(300, activation='relu'))
+	model.add(Dense(300, input_dim=maxlen, activation='relu'))
+	model.add(Dense(150, activation='relu'))
+	model.add(Dense(15, activation='relu'))
 	model.add(Dense(1, activation='sigmoid'))
 	model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 
@@ -64,16 +64,33 @@ def test_model(model, tokens_test, labels_test):
 	_, test_acc = model.evaluate(tokens_test, labels_test)
 	return test_acc
 
-# Save Model with Timestamp
 def save_model(model, train_acc, test_acc):
 	now = datetime.now()
 	date_str = now.strftime("%d-%m-%Y %H-%M-%S")
 	model_name = get_acc(train_acc) + " " + get_acc(test_acc) + " " + str(date_str);
-	model.save("../models/" + str(model_name) + ".hdf5")
+
+	model_dir="../models/"
+
+	test_train_avg = avg_accuracy(train_acc, test_acc)
+	if float(test_train_avg) >= 90:
+		model_dir += "90s/"
+
+	model.save(str(model_dir) + "" + str(test_train_avg) + " " + str(model_name) + ".hdf5")
+
+def retrain_model(file_name, data_training):
+	model = load_model(file_name)
+	model.summary()
+	model, train_acc, test_acc = train_model(data_training);
+	print_accuracy(train_acc, test_acc)
+	# save_model(model, test_acc, train_acc)
+
+def avg_accuracy(train_acc, test_acc):
+ 	return str(((train_acc + test_acc) * 100) / 2.0)[0:4]
 
 def print_accuracy(train_acc, test_acc):
-	print('Test Accuracy:	' + get_acc(test_acc))
-	print("Training Accuracy: " + get_acc(train_acc))
+	print("Avg Acc: " + avg_accuracy(train_acc, test_acc))
+	print('Test Acc:	' + get_acc(test_acc))
+	print("Train Acc: " + get_acc(train_acc))
 
 def get_acc(acc):
 	return str(acc * 100)[0:4]
