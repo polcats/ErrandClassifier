@@ -1,0 +1,1386 @@
+,sentence,label
+0,far good,0
+1,sound quality good functionality awesome,0
+2,write thesis proposal,1
+3,sweep bedroom floor,1
+4,definitly recommend,0
+5,translate paragraph english,1
+6,usable keyboard actually turns pda realworld useful machine instead neat gadget,0
+7,fetch friend bring us home,1
+8,great choice,0
+9,buy groceries,1
+10,carry stuff,1
+11,good works fine,0
+12,battery holding well,0
+13,defeats purpose bluetooth headset,0
+14,none works dont buy,0
+15,also slim enough fit alarm clock docking station without removing case,0
+16,jiggle plug get line right get decent volume,0
+17,reception generally good,0
+18,use smallest earpieces provided stays pretty well,0
+19,beautiful phone,0
+20,logitech bluetooth headset 10,0
+21,buy coffee grocery store,1
+22,conduct survey,1
+23,fix non funtional electronics,1
+24,dont trust website dont expect helpful support,0
+25,would take long describe bad customer service experience amazon,0
+26,loud enough doesnt turn like,0
+27,drive mother father mall,1
+28,love phone,0
+29,company charge restocking fee still given refund back,0
+30,doesnt last long,0
+31,bought nokia cell phone weeks ago nightmare,0
+32,poor construction,0
+33,verizon lg phone work well together good reception range exceeds 20 feet line sight,0
+34,windresistant,0
+35,soyo technology sucks,0
+36,span hour two people exclaim whoa new phone tv,0
+37,got phone around end may im completely unhappy,0
+38,buying paracetamol pharmacy,1
+39,small sleek impressive looking practical setup ample storage place,0
+40,clean surroundings,1
+41,bring bondpapers,1
+42,design odd ear clip comfortable,0
+43,cleaning bedroom,1
+44,holster arrived match photo ad,0
+45,write abstract part research,1
+46,save money ive item 11 months,0
+47,disappointment,0
+48,satisifed,0
+49,verizon tech support walked procedures none worked ended hard reset wiping data,0
+50,managed bend leaf spring back place metal enough stress break next drop,0
+51,tracfonewebsite user friendly makes easy toactivate etc,0
+52,best rotating feature helpful,0
+53,price great deal,0
+54,works great,0
+55,doesnt work europe asia,0
+56,great hands free device,0
+57,help mom hail taxi,1
+58,set chairs venue,1
+59,customer service terrible,0
+60,prosgood camera nice pictures also cool styles like black white,0
+61,price good,0
+62,want money back,0
+63,restored phone like new performance,0
+64,im disappointed decision,0
+65,muddy low quality sound casing around wires insert poorly super glued slid,0
+66,nearly good looking amazon picture makes look,0
+67,carry someones heavy luggage,1
+68,one big drawback mp3 player buttons phones front cover let pause skip songs lock seconds,0
+69,voice quality signal strength dropped calls,0
+70,buy meat fish vegetables market,1
+71,looking shop,1
+72,2 thumbs seller,0
+73,dont buy,0
+74,battery unreliable well service use antena,0
+75,work,0
+76,two seperated mere 5 ft started notice excessive static garbled sound headset,0
+77,clean everything inside house,1
+78,sweep floor,1
+79,love cable allows connect miniusb device pc,0
+80,impressed product,0
+81,dont waste money,0
+82,worst piece crap ever along verizon customer service,0
+83,cook food,1
+84,great reception time,0
+85,must study anyone interested worst sins industrial design,0
+86,makes easier keep bluetooth im wearing,0
+87,looks great strong,0
+88,works fine,0
+89,iron clothes,1
+90,writing graduate program thesis,1
+91,disappointing,0
+92,piece junk,0
+93,bad quality,0
+94,put dirty clothes washing machine,1
+95,protects phone sides,0
+96,impressed,0
+97,great sound service,0
+98,good quality though,0
+99,impressed headset plantronics,0
+100,placed treo case snug lot extra room sides,0
+101,love camera really pretty good quality,0
+102,cheap hey works pleasantly suprised given low cost item,0
+103,excited get headset thought really cute,0
+104,print files,1
+105,clean familys house entirely,1
+106,buy groceries,1
+107,buyerbe careful,0
+108,great tool entertainment communication data managementoh sure use activesync 42 optimal data synchronization results,0
+109,really wanted plantronics 510 right one many issues methe good,0
+110,comfortable,0
+111,buying mineral water grocery,1
+112,rip charge shipping,0
+113,ears occupied background distracting,0
+114,walk dog outside,1
+115,treo tmobile refused replace forced buy another phone without kind upgrade discount,0
+116,drive friend mall,1
+117,writing communication letter sister company,1
+118,couldnt use unit sunglasses good texas,0
+119,generate reports,1
+120,bought battery coupon amazon im happy purchase,0
+121,good audio quality,0
+122,battery excellent bargain,0
+123,phone year tell great,0
+124,know made wise decision,0
+125,good protection make phone bulky,0
+126,products cover important light sensor ear outlet,0
+127,set venue chairs,1
+128,really pleased product far,0
+129,love look feel samsung flipphones,0
+130,performed awful muffled tinny incoming sound severe echo end call,0
+131,great case price,0
+132,wash car,1
+133,biggest complaint battery drains superfast,0
+134,bad choice,0
+135,defective crap,0
+136,would recommend item anyone,0
+137,feed cat,1
+138,thing disappoint infra red port irda,0
+139,none new ones ever quite worked properly,0
+140,would recommend item,0
+141,pretty piece junk,0
+142,cook food,1
+143,warning buy,0
+144,buy groceries,1
+145,think good investment,0
+146,mine year christmas bought rest family,0
+147,satisfied cell phone day one,0
+148,drive mall,1
+149,another note phones appearance really looks rather bland especially black model,0
+150,send documents email,1
+151,talking seminar presentation,1
+152,preparing clothes outfit,1
+153,good product well made,0
+154,bring bondpaper,1
+155,buying coffee store,1
+156,used several phone two years one best,0
+157,oh forgot also mention weird color effect phone,0
+158,refuse refund replace,0
+159,much less jawbone going replace,0
+160,also phone doesnt seem accept anything except cbr mp3s preferably ripped windows media player,0
+161,buy groceries,1
+162,light weight hardly notice,0
+163,year battery went completely dead headset,0
+164,however keypads tinny sometimes reach wrong buttons,0
+165,features want,0
+166,especially love long battery life,0
+167,babysit child im work,1
+168,really ugly,0
+169,obviously terrible customer service get pay,0
+170,talking seminar presentation,1
+171,plugged find darn thing worked,0
+172,doesnt make look cool,0
+173,internet excrutiatingly slow,0
+174,bt headset disapoinment,0
+175,horrible horrible protector,0
+176,excellent starter wireless headset,0
+177,even dropped phone stream submerged 15 seconds still works great,0
+178,submit reports,1
+179,ive bluetooth weeks really like,0
+180,works,0
+181,design webpage,1
+182,really recommend faceplates since looks nice elegant cool,0
+183,little device transformed organizational capability made life whole lot easier,0
+184,came verizon cingulair nicer cell phones first thing noticed really bad service,0
+185,update procedure difficult cumbersome,0
+186,useless phone simply deaf,0
+187,works great,0
+188,case best part download pictures laptop using ir even send pictures laptop phone,0
+189,works great,0
+190,received headset good time happy,0
+191,reception excellent,0
+192,could get strong enough signal,0
+193,picture resolution far comparablypriced phones offering today,0
+194,buy market,1
+195,care consumer one bit,0
+196,bad purchase,0
+197,dit work time nokia 5320,0
+198,battery life real good,0
+199,battery working well replacement original came phone 2 years ago,0
+200,cable looks thin flimsy scary,0
+201,sucked stuff work phone,0
+202,definitely must state allow cell phone usage driving,0
+203,internet access fine rare instance worked,0
+204,would highly recommend,0
+205,essentially communications tool communicate,0
+206,jabra ear gels r best,0
+207,cutouts buttons placed perfectly,0
+208,carry backpack,1
+209,one favorite purchases ever,0
+210,worthless product,0
+211,survey saleable products business,1
+212,clean bedroom,1
+213,definitely bargain,0
+214,buy mineral water store,1
+215,five star plus plus,0
+216,make lecture planner,1
+217,wind completely useless,0
+218,nice sound,0
+219,thank wasting money,0
+220,worst customer service ever,0
+221,need least 3 mins get phone book time first turn phonebattery life short,0
+222,razr owneryou must,0
+223,might gotten defect would risk buying built quality alone,0
+224,price good free shipping good purchase,0
+225,cook rice,1
+226,first thing happened tracking,0
+227,good case,0
+228,pick laundry shop,1
+229,works like charm works advertised,0
+230,stay away q,0
+231,great phone,0
+232,perhaps phone defective people cannot hear use,0
+233,im quite satisfied purchase,0
+234,enough volume,0
+235,really easy,0
+236,works good,0
+237,clean surroundings,1
+238,great deal,0
+239,pick laundry,1
+240,sanyo survived dozens drops blacktop without ill effect,0
+241,results phone either stuck max volume mute,0
+242,continue pairing periodically since somehow kept dropping,0
+243,good bargain,0
+244,nice headset priced right,0
+245,att clear sound distorted yell talk,0
+246,conducting surveys,1
+247,feed cat dog,1
+248,better expected,0
+249,product ideal people like whose ears sensitive,0
+250,translate essay english,1
+251,better new,0
+252,everything product wrongfirst,0
+253,clean sleeping room,1
+254,drive family around,1
+255,good thing fits comfortably small ears,0
+256,design good4,0
+257,item great installed let charged overnite working good every since problems,0
+258,disappointment,0
+259,buying rice,1
+260,looks good picture case huge disappointment,0
+261,im bit disappointed,0
+262,buy meat buy fish buy vegetables,1
+263,car charger well ac charger included make sure never run juicehighy recommended,0
+264,excellent product price,0
+265,couldnt figure,0
+266,purchase different case,0
+267,felt light tinny,0
+268,really like product motorola allot clearer ear piece mic,0
+269,great pocket pc phone combination,0
+270,walk dog outside,1
+271,clean house,1
+272,tried talking real loud shouting telephone gets old still told wasnt great,0
+273,looking shop,1
+274,buy meat fish vegetables,1
+275,posted detailed comments grey black phone fire red great color,0
+276,drive relative tourist spot,1
+277,love 350 headset jabra350 bluetooth headset great reception good ear piece comfortable fit,0
+278,phone pretty sturdy ive never large problems,0
+279,pay water electric bills,1
+280,make assignments,1
+281,carry heavy luggage,1
+282,basically threw money window nothing,0
+283,good phone,0
+284,stroll together dog,1
+285,help assignments,1
+286,check completeness documents,1
+287,lasted one day blew,0
+288,doesnt work,0
+289,disappointed accessoryone,0
+290,babysitting child,1
+291,sweeping balcony floor,1
+292,wear everyday holds well,0
+293,jerks phone,0
+294,water plants garden,1
+295,bring someone bondpapers,1
+296,unreliable im giving,0
+297,phone also take great pictures even video clips,0
+298,yes shiny front side love,0
+299,poor voice clarity,0
+300,deliver food family,1
+301,picking laundry,1
+302,happy far,0
+303,display excellent camera good year,0
+304,provides good protection looks classy,0
+305,put latest os v115g likes slow crawl lock every,0
+306,sweep floor,1
+307,battery lasts hours,0
+308,dont bother go store,0
+309,items stated included description included,0
+310,clicks place way makes wonder long mechanism would last,0
+311,wash hair,1
+312,great phone,0
+313,big waste time,0
+314,good product good seller,0
+315,cool phone,0
+316,carrying heavy luggage,1
+317,virgin wireless rocks cheap little phone,0
+318,audio quality poor poor,0
+319,phone thorn side really abhor,0
+320,wont work right atleast,0
+321,make various educational materials,1
+322,item fantastic works perfectly,0
+323,buyers remorse one,0
+324,feeding cat dog,1
+325,pick laundry shop,1
+326,lightweight works well,0
+327,pay bills,1
+328,great ipods,0
+329,frog phone charm adorable eye catching,0
+330,easy pair samsung cell,0
+331,print documents,1
+332,worth every penny,0
+333,thank great service,0
+334,document encoding,1
+335,headsets easy use everyone loves,0
+336,product great makes working lot easier go copier waiting hold something,0
+337,get broken electronics fixed,1
+338,write papers,1
+339,buttons bad,0
+340,buy additional ingredients,1
+341,make educational materials lecture,1
+342,allows possibility double booking date time first,0
+343,freezes frequently4,0
+344,connected wifes bluetoothmotorola hs850 phone worked like charm whether phone pocket case,0
+345,one didnt work either,0
+346,ive missed numerous calls reason,0
+347,feels comfortable headsets wear glasses gets way sometimes,0
+348,submit reports,1
+349,love features form factor,0
+350,horrible,0
+351,much hype phone assumed best mistake,0
+352,also phone dropped case going save specially dropped face,0
+353,clean garage,1
+354,clear crisp sound,0
+355,received orders well within shipping timeframe everything good working order overall excited source,0
+356,mic doesnt work,0
+357,maintain connection computer lap,0
+358,pick location drop location,1
+359,fast service,0
+360,plastic breaks really easy clip,0
+361,phone holds charge like new,0
+362,microphone also works well according people called applifies everything,0
+363,joy use,0
+364,comfort whole family,0
+365,worked great,0
+366,ive bluetoooth headset time still comfortable way fits ear,0
+367,disappointing thing speakerphone,0
+368,carrying heavy luggage,1
+369,buy drinking water grocery,1
+370,simple lightweight great fit,0
+371,take battery phone put back together restart,0
+372,send emails,1
+373,buy drinking water,1
+374,nice docking station home work,0
+375,got small adorable,0
+376,buy kopitea coffee store,1
+377,poor product,0
+378,everything description said would,0
+379,warranty problems reoccurebottom line put money somewhere else cingular support,0
+380,great camera thats 2mp pics nice clear great picture quality,0
+381,pay bills,1
+382,bottowm lineanother worthless cheap gimmick sprint,0
+383,headphones great find think perhaps best purchase ive made last several years seriously,0
+384,bought use kindle fire absolutely loved,0
+385,lately extremely nice helpful phone,0
+386,dont buy product,0
+387,tmobile best customer service anywhere,0
+388,reading specs alone makes say wow,0
+389,good stuff price,0
+390,product useless since enough charging current charge 2 cellphones planning use,0
+391,house getting dropped coverage upstairs coverage basement,0
+392,dont buy product fails,0
+393,worst ever,0
+394,sweep floor,1
+395,adapter provide enough charging current,0
+396,ive trouble accessing internet downloading ringtones performing functions,0
+397,disappointing accessory good manufacturer,0
+398,piece junk broke phone 2 days,0
+399,found product easy set use,0
+400,definitely good s11,0
+401,simple use like,0
+402,pay water bill,1
+403,like fact rests lightly ear rather inside,0
+404,excellent wallet type phone case,0
+405,commercials misleading,0
+406,hands best phone ive ever,0
+407,great phone,0
+408,carry backpack,1
+409,like loud buzzing override conversations phone,0
+410,due happening every call forced stop using headset,0
+411,feels poorly constructed menus difficult navigate buttons recessed difficult push,0
+412,perfect ps3,0
+413,cook,1
+414,avoid one,0
+415,great little item,0
+416,last forever overly expensive replaceeasy operate sound much better others tried,0
+417,phone tries hard everything fails ability phone,0
+418,love great armband,0
+419,buy icecream grocery store,1
+420,good product incredible value,0
+421,plug wrong size,0
+422,read others reviews havent problem,0
+423,happy item,0
+424,wanted,0
+425,impressed job motorola sturdiness phone,0
+426,truly awful,0
+427,find inexcusable probably returning phone perhaps changing carriers,0
+428,calls drop phone comes screen goes black worst stops ringing intermittently,0
+429,answer calls unit never worked,0
+430,good quality bargain bought bought cheapy big lots sounded awful people end couldnt hear,0
+431,phone falls easily,0
+432,prepare reports,1
+433,email sending,1
+434,buyer beware could flush money right toilet,0
+435,gets job done,0
+436,battery life highly unacceptable,0
+437,comfortable nice range good battery life,0
+438,nice quality build unlike cheap,0
+439,however girl complain time phone doesnt wake like normal phone,0
+440,bought mainly charger broke soon purchasing,0
+441,loudglad say plantronics 510 maintains flawless connection cell static normal use,0
+442,print documents,1
+443,write thesis proposal,1
+444,send mail electronically,1
+445,awesome new look fall 2000,0
+446,steer clear product go genuine palm replacementr pens come threepack,0
+447,highly recommend one blue tooth phone,0
+448,buy food buy load,1
+449,documenting sorting photos,1
+450,sending emails,1
+451,got aluminum case new palm vx worked really wellit protected handheld perfectly far,0
+452,clean wifes dirty garage,1
+453,using earpieces left right thing stay ear,0
+454,poor reliability,0
+455,ive tried several different earpieces cell phone jabra one first one ive found fits ear comfortably,0
+456,dont buy,0
+457,buy rice least kilo,1
+458,battery works great,0
+459,buying gallon drinking water,1
+460,works,0
+461,total package,0
+462,1 long lasting battery dont recharge frequentyly flip phones2,0
+463,well im satisfied,0
+464,buy medicine pharmacy,1
+465,sounds good reasonably priced effective simple,0
+466,drain weak snap,0
+467,dont waste money time,0
+468,clean house,1
+469,yet plantronincs continues use flawed charger design,0
+470,cool cases open allowing screen get scratched,0
+471,bluetooth range good days ago left phone trunk got call carried conversation without hitch,0
+472,good value works fine power via usb car wall outlet,0
+473,mic great,0
+474,ill drivng along headset starts ringing reason,0
+475,check mechanics written research papers,1
+476,volume ringer real good choices loud,0
+477,charger arrived within promised timeframe work,0
+478,seller understanding patient would definitely buy,0
+479,pairing two devices easy barely took couple minutes started making calls voice dialing feature,0
+480,good battery got really fast,0
+481,would definitely recommend jabra bt250v looking comfort clarity great price,0
+482,best phone market,0
+483,whole house cleaning,1
+484,carry cargo,1
+485,bring bondpaper someone,1
+486,made sturdy,0
+487,buy grocery store,1
+488,well packaged arrived time works intended,0
+489,encode documents,1
+490,get extra minutes carry call get cut,0
+491,strolling outside dog,1
+492,hoping,0
+493,exchanged phone even problem,0
+494,fix broken electronics,1
+495,absolutely great,0
+496,wont regret,0
+497,phone fast sending kind messages web browsing significantly faster previous phones used,0
+498,product high quality chinese crap,0
+499,phone loads super,0
+500,bought 10 saved alot money,0
+501,noise shield incrediable,0
+502,best headset used,0
+503,translate documents language,1
+504,magical help,0
+505,went motorolas website followed directions could get pair,0
+506,also cannot take pictures case lense covered,0
+507,speaker low quality making ring tones sound cheap,0
+508,unreliable service tmobile,0
+509,submit reports office,1
+510,voice recognition thru handset excellent,0
+511,awsome device works great,0
+512,walk dog outside,1
+513,buying fish vegetables meat market,1
+514,deliver food friends,1
+515,love ringtones upbeat,0
+516,easy use,0
+517,disappointed,0
+518,transporting shipment,1
+519,disappointed battery,0
+520,yet run new battery two bars thats three days without charging,0
+521,ngage still lacking earbuds,0
+522,happy,0
+523,walk dogs,1
+524,last time buying,0
+525,searched internet found one best value,0
+526,made case small difficult install,0
+527,piece junk lose calls phone,0
+528,blueant supertooth handsfree phone speaker awesome,0
+529,works described,0
+530,oh charger seems work fine,0
+531,buy medicine pharmacy,1
+532,print friends files,1
+533,awesome device,0
+534,stupid keep buying new chargers car chargers cradles headphones car kits every time new phone comes,0
+535,love colors,0
+536,sprint terrible customer service,0
+537,thats huge design flaw unless im using correctly dont think case,0
+538,bring friend bondpapers,1
+539,conduct survey,1
+540,translate readings another language,1
+541,integrated seamlessly motorola razr phone,0
+542,unfortunately recharge iphone 4s despite connecting multiple power sources imac external battery wall outlet etc,0
+543,product excellent works better verizon one boy cheaper,0
+544,excellent service,0
+545,impressed would recommend item anyone,0
+546,sound clear people talk amazed quality,0
+547,buy medicine store,1
+548,drive mother father mall,1
+549,washing plates,1
+550,echo problemvery unsatisfactory,0
+551,works well,0
+552,going first negatively review product,0
+553,aggravating,0
+554,used talk 1 1 12 hours battery would literally drained dying,0
+555,people couldnt hear talk pull earphone talk phone,0
+556,great item,0
+557,text messaging feature really tricky use,0
+558,battery completely useless,0
+559,buying medicine pharmacy,1
+560,worst customer service,0
+561,mobile phone tools must,0
+562,print homework,1
+563,dont buy product,0
+564,fits like glove strong secure durable,0
+565,someone shouldve invented sooner,0
+566,good hoped,0
+567,carry things,1
+568,convenient simple use gets job done makes car ride much smoother,0
+569,buy additional ingredients,1
+570,great using home stereo,0
+571,excellent product satisfied purchase,0
+572,bt50 battery junk,0
+573,working great,0
+574,buy 1 kilo rice,1
+575,babysit child,1
+576,id like return,0
+577,pick laundry shop,1
+578,bose noise cancelling amazing important nyc commuter,0
+579,worst phone samsungcrap crappy samsung e715 worst ever seeen,0
+580,prepare outfit clothes,1
+581,gave 5 stars sound quality,0
+582,even fully charged went bed turned blue tooth wifi noticed 20 left morning,0
+583,average phone bad battery life operates weak network,0
+584,write communication letter,1
+585,however needed better instructions,0
+586,cheap plastic creaks like old wooden floor,0
+587,walking dog outside,1
+588,prepare set clothes outfit,1
+589,unusable moving car freeway speed,0
+590,wash car clean garage,1
+591,great product price,0
+592,cant upload ringtones third party,0
+593,ended sliding edge pants back pockets instead,0
+594,good item worked started problems auto reverse tape player,0
+595,happy product,0
+596,watering plants along corridor,1
+597,basically service bad,0
+598,get pay guess,0
+599,waste time,0
+600,three broke within two months use,0
+601,finds cell phone right away enter car,0
+602,returned 8 hours later,0
+603,clear quality sound dont mess sound ipod since sound buttons headset,0
+604,fetch grandmother bring home,1
+605,got car charger even week charger brokeni went plug started smoking,0
+606,cook rice,1
+607,buy bread bakery,1
+608,buying bread bakery,1
+609,jabra earset happy sound quality especially outgoing better,0
+610,absolutely problem headset linking 8530 blackberry curve,0
+611,pair headphones worst ever soundwise,0
+612,problem others mentioned,0
+613,buying bread bakery,1
+614,works fine motorola 325 cellphone lot better wornout battery,0
+615,ironing clothes,1
+616,sending back,0
+617,quite comfortable ear,0
+618,phones working fine,0
+619,leather nice soft fit tight cut face good shape,0
+620,pleather case doesnt fit,0
+621,sound quality great,0
+622,thing think could improve sound leaks headset,0
+623,inexpensive piece would still expected better quality,0
+624,plus seriously believe worth steep price point,0
+625,pleased headset,0
+626,works like charm work one got phone,0
+627,buy listed items nearest grocery store,1
+628,whine internet goesthe use thing less like,0
+629,lot websites rating good phone,0
+630,go store bought new nokia phone working great,0
+631,prepare outfit using clothes,1
+632,sound quality device unacceptableunless really quiet area almost hear nothing,0
+633,translating papers another language,1
+634,deliver food mother,1
+635,battery life still long enough motorola razor v3i,0
+636,choice headset yearsgreat sound good volume good noise cancellation,0
+637,use product motor control center lot high voltage humming equipment works great,0
+638,ring toneoverall good phone buy,0
+639,23 bars cell phone home cant hear anything,0
+640,prompt service,0
+641,kind embarrassing use looks mostly embarrassing childlike company,0
+642,wanted,0
+643,seems completely secure holding belt keeping iphone inside,0
+644,two years left contract hate phone,0
+645,disappointing,0
+646,well made fits surefire gx2 perfectly,0
+647,got phone reccomendation relative im glad,0
+648,glad purchased,0
+649,delivery time,0
+650,know sounds funny seemed like sketchy technology wouldnt work wellwell one works great,0
+651,looks nice,0
+652,encoding research,1
+653,accompanied software almost brilliant,0
+654,first phone ive cheaply made,0
+655,every thing phone work perfectly like,0
+656,still waiting im sure item would work well ever recieve,0
+657,walk dog,1
+658,make fast task,1
+659,buy load buy food,1
+660,calculus homework,1
+661,wash dishes,1
+662,need two hands operate screenthis software interface decade old cannot compete new software designs,0
+663,reception poor,0
+664,fits securely ear hook even need used sound better directed ear canal,0
+665,ordered product first unhappy immediately,0
+666,buy ingredients nearest grocery store,1
+667,deliver foods,1
+668,range decent ive able roam around house phone living room receptionsound quality issues,0
+669,buying ingredients,1
+670,designing tarpaulin webpage,1
+671,design tarpaulin,1
+672,appears actually outperform original battery china came v325i,0
+673,highly recommend encourage people give try,0
+674,talking seminar presentation,1
+675,12 mega pixel camera part phone reasonably good7,0
+676,right mind gonna buy battery,0
+677,bad reception,0
+678,wash clothes,1
+679,always cuts makes beep beep beep sound says signal failed,0
+680,superb phone great network,0
+681,wasted little money earpiece,0
+682,phone doesnt slide around car grip prevents phone slipping hand,0
+683,clipping belt deffinitely make feel like 50 cents upandcoming,0
+684,tmobile service 2 3 years pretty happy,0
+685,first doesnt wear well,0
+686,first charge kept going dead 12 minutes,0
+687,fetch brother school,1
+688,worked perfectly,0
+689,product exactly described,0
+690,kind flops around,0
+691,cook cup rice,1
+692,setting chairs venue,1
+693,additional ear gels provided instructions whatsoever,0
+694,dont waste money,0
+695,process reports government,1
+696,despite flaws case exceptional quality well worth additional costs owning official oem product,0
+697,make educational materials,1
+698,cook food lunch,1
+699,great charger,0
+700,ordered motorola data cable got well finished working product,0
+701,buy mineral water,1
+702,case great works fine 680,0
+703,checking activities students,1
+704,purcashed car charger work,0
+705,phone takes forever charge like 2 5 hours literally,0
+706,teach something give advice,1
+707,one works priced right,0
+708,fetching bring home,1
+709,incredible,0
+710,comfortable ear,0
+711,3 months screen went black sudden,0
+712,embarassing also ears hurt try push ear plug ear,0
+713,extremely slow takes forever anything,0
+714,replacement died weeks,0
+715,well made easy access phone handy detachable belt clip,0
+716,great price also,0
+717,ordered sony ericsson w810i think worked thats first used,0
+718,improper description return,0
+719,buying load food store,1
+720,sending back,0
+721,far worked like charm,0
+722,conduct surveys poverty,1
+723,looking headset long time ive got couldnt happier,0
+724,sort document photos,1
+725,wash dishes clothes,1
+726,excellent phone,0
+727,portable works,0
+728,carry heavy luggage,1
+729,great phone,0
+730,doesnt job,0
+731,received supposedly new motorola 375 apparently match phone charger,0
+732,disappointed,0
+733,everything need couldnt ask,0
+734,linked phone without effort,0
+735,great deal,0
+736,buy buyit sucks,0
+737,write someone thesis proposal,1
+738,trouble volume,0
+739,none three sizes sent headset would stay ears,0
+740,best electronics available fm transmitters,0
+741,igo chargers tips really great,0
+742,also happy price,0
+743,encode,1
+744,great price,0
+745,excellent bluetooth headset,0
+746,buy d807wrongly advertised d807,0
+747,buy something store,1
+748,instruction manual lacking,0
+749,month worked flawlessly far,0
+750,horrible switch 3 times,0
+751,fetch family members bring home,1
+752,checked everywhere feature really disappointing,0
+753,im glad found product amazon hard find wasnt high priced,0
+754,said phone camera nice many cool effects play video decent well,0
+755,clean house,1
+756,happy 510 complaints one regarding sound quality end,0
+757,waste,0
+758,writing essay nihilism,1
+759,buttons small,0
+760,hail taxi,1
+761,beware,0
+762,recognizes phone storage device,0
+763,make educational materials human digestive system,1
+764,bought hoping could make bluetooth headset fit better things made impossible wear,0
+765,weeks far good,0
+766,waste 13 bucks,0
+767,awkward use unreliable,0
+768,always used corded headsets freedom wireless helpful,0
+769,reaching bottom row uncomfortable send end keys expect be3,0
+770,particular model would work motorola q smartphone,0
+771,bad pay month service,0
+772,uncomfortable sound quality quite poor compared phone razr previous wired headset plugged lg,0
+773,trasporting cargo,1
+774,waste money,0
+775,arguing verizon regarding dropped calls returned phones two days,0
+776,also area unit broke im fond magnetic strap,0
+777,design flaw,0
+778,plan use car forget,0
+779,write thesis proposal,1
+780,buy medicine,1
+781,buy kilo rice store,1
+782,check activites niece nephews,1
+783,washing car,1
+784,also didnt like button felt like would crack use,0
+785,far worst purchase ive made amazon,0
+786,wash clothes,1
+787,verizon 2 years ago really liked service,0
+788,better youd expect,0
+789,keep good work amazon,0
+790,washing clothes machine,1
+791,please dont waste money,0
+792,sweeping floor,1
+793,excellent dualpurpose headset,0
+794,item received counterfeit,0
+795,look friends shop,1
+796,worthwhile,0
+797,earpiece large heavyit keeps falling ear,0
+798,addition feels amp looks phone lightweight cheap plastic,0
+799,greatno problems,0
+800,dont think would hold securly belt,0
+801,setup went smoothly,0
+802,pay electric bill,1
+803,used dirty,0
+804,finally three four times spring latch broke could use longer visor,0
+805,getting broken electronics fixed,1
+806,buy want use holster,0
+807,buying medicine store,1
+808,problems wit hit dropping signal,0
+809,bought mother problem battery,0
+810,wash two cars,1
+811,tied charger conversations lasting 45 minutesmajor problems,0
+812,new battery works great phone,0
+813,w810i superb,0
+814,krussel always good,0
+815,phone gets extremely hot,0
+816,worst phone ive ever months,0
+817,buy coffee starbucks store,1
+818,cant store anything phone numbers sim,0
+819,excellent sound quality,0
+820,stupid,0
+821,simple little phone use breakage unacceptible,0
+822,love able use one headset landline cell,0
+823,painful ear,0
+824,worth,0
+825,tried cables computer ipod works fine,0
+826,take picture battery drops bar starts beeping letting know dieing,0
+827,absolutel junk,0
+828,first reception sucks never 2 bars ever,0
+829,look shop,1
+830,feeding pet cats dogs,1
+831,infuriating,0
+832,kept catching cable seat pull phone turn,0
+833,exchanged sony ericson z500a im pretty happy decision,0
+834,buy rice store,1
+835,buy different phone,0
+836,arrived quickly much less expensive others sold,0
+837,process government documents,1
+838,buying medicine pharmacy,1
+839,everything worked first trythe device certainly engineered clever way construction feels good,0
+840,keep getting better better third one ive numerous palms,0
+841,design might ergonomic theory could stand ear,0
+842,product clearly ready prime time dont care cool looks cant tell call coming worthless,0
+843,fix records,1
+844,thanks amazon things need good price,0
+845,great product fast shipping,0
+846,reception headset excellent,0
+847,also difficult put onid recommend avoiding product,0
+848,problem ear loops made weak material break easily,0
+849,stroll dog,1
+850,buy food water,1
+851,purchase phone,0
+852,send emails,1
+853,cleaning entire house,1
+854,highly recommend device everyone,0
+855,buy food buy load,1
+856,wear glasses fits fine,0
+857,wash wifes car,1
+858,work 2 weeks break,0
+859,buy ingridients,1
+860,wash cooking utensils,1
+861,majority logitech earbud headsets failed,0
+862,sorry made purchase,0
+863,big disappointment calendar sync,0
+864,ive also problems phone reading memory card always turn,0
+865,process important government reports,1
+866,fantastic earphones,0
+867,terrible car accept cassette,0
+868,father v265 battery dying,0
+869,amazed quick arrival two original lg cell phone batteries fraction price,0
+870,fix broken electronic,1
+871,first thought grtting good deal 744 plugged phone v3c razr,0
+872,wash friends car,1
+873,verizons bills however difficult understand even though pricing plans simple,0
+874,pay electric bill,1
+875,buy grocery,1
+876,razr battery good buy,0
+877,water plants,1
+878,sound quality excellent well,0
+879,works great cat attacked phone scratched protective strip instead destroying screen,0
+880,headset works great packaged nicely avoid damage,0
+881,light easy use clear reception transmission,0
+882,highly recommend case,0
+883,im surprised good quality car charger theres much reviews,0
+884,great jawbone,0
+885,used two days wasnt always easy hear,0
+886,saggy floppy piece junk,0
+887,clean entire house,1
+888,draw friends plates,1
+889,several dozen several hundred contacts imagine fun sending one one,0
+890,cant use case smell disgusting,0
+891,buy groceries nearest grocery store,1
+892,camera phone may used dustpan indoors id rather using disposable,0
+893,utterly confusing first caused lose couple important contacts,0
+894,case less extra originally put later discarded scratched ear,0
+895,great product,0
+896,best charger seen market yet,0
+897,make instructional materials,1
+898,process government documents,1
+899,works great car charger especially cannot plug two adapters time,0
+900,excellent sound battery life inconspicuous boot,0
+901,great product sure beats using fingers,0
+902,great audio,0
+903,eargels channel sound directly ear seem increase sound volume clarity,0
+904,clean garage,1
+905,terrible phone holder,0
+906,draw drafting plates,1
+907,battery life,0
+908,bother contacting company dollar product learned lesson bought form online anyway,0
+909,pda rocks,0
+910,would advise purchase item never worked well,0
+911,best headset ever,0
+912,pretty easy,0
+913,ive bought 5 wired headphones sound better,0
+914,poorly contstruct hinge,0
+915,clean room,1
+916,documenting sorting photos,1
+917,charger worked week completely stopped charging phone,0
+918,iron clothers,1
+919,water plants,1
+920,hate earbugs avoid phone means,0
+921,advise everyone fooled,0
+922,mic joke volume quite low,0
+923,nokia ca42 usb cable work phone,0
+924,nice leather,0
+925,battery terrible,0
+926,disapointing results,0
+927,volume switch rocketed unit destination unknown,0
+928,trying make call exercise frustration,0
+929,great would really recommend,0
+930,dissapointing performance,0
+931,drawing design plates,1
+932,theres horrible tick sound background calls never experienced,0
+933,hear garbage audio,0
+934,50 drain,0
+935,wish could return unit get back money,0
+936,economics homework,1
+937,make communication letter,1
+938,phone sturdy waterproof,0
+939,otherwise easy install use clear sound,0
+940,network coverage los angeles horrible,0
+941,im using iriver spinn case fits fine,0
+942,great phone,0
+943,feed pet cat dog,1
+944,disappointment hate anything goes ear,0
+945,also new problem,0
+946,check seatworks students,1
+947,usually dont like headbands one lightweight doesnt mess hair,0
+948,help carry stuff,1
+949,iron clothes,1
+950,phone sounded ok great ok wifes phone almost totally unintelligible couldnt understand word said,0
+951,babysitting child couple days,1
+952,poor quality,0
+953,document sort event photos,1
+954,received white colored battery goes dead couple hoursthe original used last week still lasts longer thereplacement,0
+955,super charged use small hybrid palmtopcameracellphone excels roles,0
+956,encode documents,1
+957,price amazon excellent product would highly recommend,0
+958,much better hard plastic cases,0
+959,looking good quality motorola headset keep looking isnt,0
+960,poor talk time performance,0
+961,love headset,0
+962,overall psyched phone appointments contacts gets great reception,0
+963,fix schedule,1
+964,hold phone particular angle party hear clearly,0
+965,still maintain monkeys shouldnt make headphones obviously dont share enough dna copy design humans,0
+966,buy frozen goods grocery store,1
+967,love bluetooth,0
+968,good wearing hat sunglasses,0
+969,software great job could also make ringtones form existing cds without internet connection,0
+970,great value,0
+971,buy mineral water,1
+972,youll love thin,0
+973,great headset impressed h500,0
+974,low quality,0
+975,carry heavy luggage,1
+976,ear buds play music one ear,0
+977,love phone,0
+978,cleaning surroundings,1
+979,im really disappointed charger doesnt work,0
+980,makes strange ticking noises ends call,0
+981,excellent product,0
+982,wake,1
+983,set chairs,1
+984,waste money time,0
+985,happy product,0
+986,even bmw 3 series fairly quiet trouble hearing person saying,0
+987,simply best bluetooth headset sound quality,0
+988,excellent tool especially paired phones autoanswer,0
+989,little geeky think thats sex toast rocks oozes sex right battery embedded sleek stylish leather case,0
+990,light plenty battery capacity confortable wear somewhat extended periods time,0
+991,pay bills water electricity,1
+992,love thing,0
+993,impressed going original battery extended battery,0
+994,colleague get great receptiona little expensive performance great,0
+995,keyboard nice compromise full qwerty basic cell phone number keypad,0
+996,bought two neither charge,0
+997,sprint charges service,0
+998,keyboard really worthwhile usefulness sturdy enough dont expect problems,0
+999,also makes easier hold,0
+1000,buy additional ingredients,1
+1001,fit palm tungsten e2 broke first time tried plug,0
+1002,attractive appears good quality,0
+1003,battery life also great,0
+1004,id expected better consumer experience motorola,0
+1005,write 5paragraph essay,1
+1006,bluetooth work phone locks screens flash makes calls randomly pocket locked,0
+1007,would recommend purchasing jabra jx10 series 2 works flawlessly moto q go figure,0
+1008,battery chargelife quite long,0
+1009,print someones documents files,1
+1010,good price,0
+1011,write someones thesis proposal,1
+1012,washing dishes,1
+1013,write communication letter,1
+1014,screen get smudged easily touches ear face,0
+1015,waste money,0
+1016,love phone handy lot features,0
+1017,clear skype calls long battery life long range,0
+1018,welldesigned sharp blue nice color,0
+1019,never know pushed hard enough right number times function want,0
+1020,everything,0
+1021,essentially forget microsofts tech support,0
+1022,buy kopiko coffee store,1
+1023,ironing work clothes,1
+1024,make projects,1
+1025,recommend igo anyone different brand cell phonesmp3 players family,0
+1026,process government papers,1
+1027,didnt charge,0
+1028,lousy product,0
+1029,nice design quality,0
+1030,jawbone era awesome,0
+1031,sister one also loves,0
+1032,send message email,1
+1033,fits ear well comfortable,0
+1034,highly recommend modest priced cellular phone,0
+1035,bring classmate bondpapers,1
+1036,conduct survey 150 people,1
+1037,bethe audio quality poor,0
+1038,works great,0
+1039,like loud buzzing override conversations phone,0
+1040,used bitpim free program find internetto transfer data phonethe price cable excellent,0
+1041,wash dishes,1
+1042,beautiful styling though,0
+1043,im pleased,0
+1044,would reccommend,0
+1045,practically useless add kind boost reception bought,0
+1046,great software motorolas,0
+1047,good enough price,0
+1048,checking activities seatworks students,1
+1049,fits comfortably either ear sound clear loud charge lasts couple days,0
+1050,doesnt hold charge,0
+1051,cleaning surroundings school,1
+1052,color even prettier thought would graphics incredibly sharp,0
+1053,trying many many handsfree gadgets one finally works well,0
+1054,impressed price cases,0
+1055,camera although rated impressive 13 megapixels renders images fall well expectations relatively high resolution,0
+1056,cant beat price,0
+1057,draw drafting plates,1
+1058,blue ant easy use,0
+1059,fix electronics broken,1
+1060,buy coffee,1
+1061,pay bills,1
+1062,quit working id used 18 months purchased another one best headset ive ever owned,0
+1063,however bt headsets currently good real time games like firstperson shooters since audio delay messes,0
+1064,fit,0
+1065,stay away store careful,0
+1066,walking dog park,1
+1067,homework,1
+1068,setup couldnt simpler,0
+1069,ill looking new earpiece,0
+1070,wash utensils,1
+1071,didnt think instructions provided helpful,0
+1072,cook rice place,1
+1073,item worked great broke 6 months use,0
+1074,cook snacks,1
+1075,great phone,0
+1076,phone got year old slowly breaking despite much care part,0
+1077,buying fish meat vegetables,1
+1078,possesed get junk idea,0
+1079,drain player may also potentially fry,0
+1080,5year old nokia 2160 tracfone holds charge lot better,0
+1081,voice recognition tremendous,0
+1082,none tones acceptable,0
+1083,talk presentation seminar,1
+1084,design computer related tasks,1
+1085,tried 2 units failed within 2 months pros,0
+1086,shifting bubbling peeling even scratch nothingi couldnt happier new one droid,0
+1087,deliver food friend,1
+1088,encode assignment,1
+1089,fabulous,0
+1090,buy medicine,1
+1091,case passed one year mark shows signs wear 100 functional,0
+1092,cook food snacks,1
+1093,battery runs quickly,0
+1094,plug work well,0
+1095,cumbersome design,0
+1096,submitting reports office,1
+1097,excellent,0
+1098,cannot make calls certain places,0
+1099,chinese forgeries abound,0
+1100,worst software ever used could give zero stars would,0
+1101,nice solid keyboard,0
+1102,howeverthe riingtones best neither games,0
+1103,earlier review noted plug charger nothing happens,0
+1104,laundry,1
+1105,bring coupon bonds,1
+1106,could recommend,0
+1107,worked well paired treo 700w skype headset pc using usb bluetooth transceiver,0
+1108,phone might well worst ive ever brand,0
+1109,item arrived quickly works great metro pcs samsung schr450 slider phone sony premium sound ear plugs,0
+1110,would recommend,0
+1111,make teachers guide,1
+1112,cant get software work computer,0
+1113,purchased family friends enjoy clarity ease use,0
+1114,buy mineral water convenience store,1
+1115,pick laundry,1
+1116,amazon sucks,0
+1117,check voice mail night keypad backlight turns seconds first message im lost,0
+1118,work cell phone plug set charger,0
+1119,clean surroundings house,1
+1120,looses connection phone even within couple feet two,0
+1121,buy food load store,1
+1122,gotten lot compliments,0
+1123,walking dog,1
+1124,excellent hands free tool,0
+1125,process government reports,1
+1126,get absolutely horrible reception apartment phones problem,0
+1127,watering plants,1
+1128,exactly wanted,0
+1129,pay water bill,1
+1130,wash underwears,1
+1131,gets signal verizon phones wont,0
+1132,barely ever hear constantly saying,0
+1133,motorola finally got voice quality bluetooth headset right,0
+1134,love device,0
+1135,leopard print wonderfully wild,0
+1136,real killer volume course breaking,0
+1137,plan ordering,0
+1138,great product price,0
+1139,contacted company told although unit still warranty couldnt produce receipt luck,0
+1140,charging overnight batteries work great,0
+1141,piece crap,0
+1142,encode report,1
+1143,great earpiece,0
+1144,good transmit audio,0
+1145,holds charge long time reasonably comfortable longwearing conditions quality sound tremendous,0
+1146,however year fliptop started get loose wobbly eventually screen went black couldnt receive place calls,0
+1147,clean house,1
+1148,cases ive tried normally fall apart months one seems long haul,0
+1149,print classmates documents,1
+1150,good item low price,0
+1151,deliver friends food,1
+1152,jabra eargels fit ears well,0
+1153,carry heavy appliance,1
+1154,several different 2 minute calls experienced 5 drops area 5 bars,0
+1155,reversible plug works great,0
+1156,authentic leather nice shine comfort recommend case,0
+1157,carry things,1
+1158,way plug us unless go converter,0
+1159,disappointed,0
+1160,check students activites,1
+1161,fetch cab,1
+1162,anyone near hear part conversation,0
+1163,unfortunately work,0
+1164,write essay,1
+1165,buy drinking water,1
+1166,fit,0
+1167,said abovepretty useless,0
+1168,get better reception clarity phone ive,0
+1169,work listening music cingular 8125,0
+1170,best ive found far ive tried 2 bluetooths one best quality listener well ease using,0
+1171,didnt work people hear talk,0
+1172,pretty good product,0
+1173,displeased,0
+1174,dont waste one,0
+1175,fixing broken electronics,1
+1176,dont like nokia either,0
+1177,making educational materials,1
+1178,fixes problems,0
+1179,overall would recommend phone new walkman,0
+1180,ive owned phone 7 months say best mobile phone ive,0
+1181,cook rice,1
+1182,come fetch lets go home,1
+1183,ironing daughters clothes,1
+1184,buy vegetables meat fish,1
+1185,clean whole house,1
+1186,comfortable wear well probably important aspect using case,0
+1187,case seems well made,0
+1188,clean area set chairs,1
+1189,earbud piece breaks easily,0
+1190,translate readings,1
+1191,bedroom cleaning,1
+1192,everything fine reasonable price ie,0
+1193,worked well,0
+1194,shipping time also quick,0
+1195,write communication letter boss,1
+1196,clean bedroom,1
+1197,receiving using product 2 days broke,0
+1198,instructions didnt explain microphone jack could used,0
+1199,bring food grandfather two houses house,1
+1200,problem item would order needed,0
+1201,transport cargo,1
+1202,small dont even realize getting used,0
+1203,would highly recommend product,0
+1204,product strong rubberpetroleum smell unbearable caused return,0
+1205,would recommend,0
+1206,unfortunately ability actually know receiving call rather important feature phone pitiful respect,0
+1207,could take 2 videos time quality poor,0
+1208,timely shipment quality product,0
+1209,unfortunately easy accidentally activate gentletouch buttons accidentally touch phone face listening,0
+1210,phone sturdy nokia bar phones,0
+1211,cheap feel look cheap,0
+1212,one thing hate mode set button side,0
+1213,much disappointed company,0
+1214,would recommend others,0
+1215,order,0
+1216,device great several situations1,0
+1217,case flimsy piece plastic front side protection whatsoever,0
+1218,cook food breakfast,1
+1219,winner us,0
+1220,bought phone replacement startac regretted since,0
+1221,buying paracetamol store,1
+1222,crisp clear,0
+1223,gosh best phone ever,0
+1224,hear im driving car usually dont even put loudest setting,0
+1225,feed pets,1
+1226,even take self portraits outside exterior display cool,0
+1227,good case excellent value,0
+1228,comfortable fit need headset comfortable least hour time entire day,0
+1229,checking activites students,1
+1230,obviously problem adhesive,0
+1231,im still infatuated phone,0
+1232,piece trash,0
+1233,phone slim light display beautiful,0
+1234,look sharp screen nice clear great graphics,0
+1235,work,0
+1236,document photos,1
+1237,company joke,0
+1238,talk useless customer service,0
+1239,purchased within 2 days longer working,0
+1240,horrible phone,0
+1241,childs homework,1
+1242,im returning,0
+1243,process documents government,1
+1244,headset fulfills requirements happy purchase,0
+1245,disappointed,0
+1246,seller shipped quickly much cheaper competitors,0
+1247,drive somewhere,1
+1248,buying ingredients,1
+1249,draw plates,1
+1250,lasts less 3o minutes actually try use phonemy wife phone problem,0
+1251,hail taxi,1
+1252,sweetest phone,0
+1253,cleaning friends garage,1
+1254,phone unusable new,0
+1255,cook food,1
+1256,would given star able,0
+1257,cook dinner,1
+1258,uncomfortable ear dont use lg vx9900 env,0
+1259,terrible product waste money,0
+1260,clean surroundings garden,1
+1261,good show samsung,0
+1262,good quality,0
+1263,encoding documents,1
+1264,preparing outfit clothes,1
+1265,headset works peachykeen,0
+1266,poor sound quality,0
+1267,charge cingular att 8525 phone,0
+1268,plays louder speaker size price low would think quality lacking however,0
+1269,doesnt work bougth l7c working,0
+1270,pleased see could replace well travled swivel holster blackberry flip,0
+1271,clean house wash dishes,1
+1272,comes strong light use light camera shots even flash sos signals seriously,0
+1273,iam pleased purchase,0
+1274,worst phone ever,0
+1275,great bluetooth,0
+1276,research development division obviously knows theyre,0
+1277,complaint standard sound volume little low even turned 5of 5,0
+1278,bad fit way big,0
+1279,days later puff smoke came phone use,0
+1280,document sort photos,1
+1281,easy use,0
+1282,cooking rice dinner,1
+1283,fits comfortably came three sizes earbud tips,0
+1284,great new packaged nice works good problems came less time expected,0
+1285,wash dirty clothes,1
+1286,cleaning garage,1
+1287,pairing iphone could happier far,0
+1288,took one drop 6 inches kitchen counter crackedi impressed laughing,0
+1289,happy,0
+1290,carry heavy things,1
+1291,sound quality end excellent use headset call wife ask wife use headset call 2,0
+1292,sitting vehicle cradle belt headset lost signal,0
+1293,phone get 2005 bought s710a say wow,0
+1294,product costs much one expect work far better greater ease thing,0
+1295,ive dropped phone times say even concrete phone still great knock wood,0
+1296,clean room,1
+1297,buy bread,1
+1298,item match picture,0
+1299,transport shipment,1
+1300,wouldnt recommend buying product,0
+1301,received quickly works great,0
+1302,linksys way exchange bad phone refurb unit something,0
+1303,checking seatworks students,1
+1304,around years carries highest quality antiglare screen protector found date,0
+1305,able voice dialing car problem,0
+1306,love product,0
+1307,poor quality service,0
+1308,simply want small flip phone look elsewhere extra bells whistles mediocre,0
+1309,cool,0
+1310,nano stated itmy son dissapointed,0
+1311,submitting documents office,1
+1312,talk seminar presentation,1
+1313,company shipped product promptly works well,0
+1314,2 cases would order another,0
+1315,handsfree part works fine car tries download address book treo rebootsoverall still rate device high,0
+1316,look shop,1
+1317,phone crashed completely get replaced,0
+1318,dont find bad unit comes one earpad onlyi would recommend anyone,0
+1319,certainly comfortable functionality decent,0
+1320,many people complained found headsets microphone weak,0
+1321,give wirefly 1 stari contact cingularatt inform practice,0
+1322,dont make mistake,0
+1323,pay bills,1
+1324,dont waste money,0
+1325,camera color balance awful,0
+1326,needless say wasted money,0
+1327,however ear pads come easily one week lost one,0
+1328,phone works great,0
+1329,construction headsets poor,0
+1330,really good product,0
+1331,make mistake,0
+1332,excellent product price,0
+1333,week later activated suddenly died,0
+1334,carry heavy luggages,1
+1335,screen size big key pad lit well enough camera quality excellent camera phone,0
+1336,great phone,0
+1337,fantastic buy get whatever next phone,0
+1338,real improvement,0
+1339,never got,0
+1340,drawing design plates,1
+1341,user friendly,0
+1342,great phone,0
+1343,nice headphones price work great,0
+1344,easy turn car volume controls quite accessable,0
+1345,think plan onethis sure last moto phone,0
+1346,designing webpage tarpaulin business,1
+1347,experience terrible fourth bluetooth headset much comfortable last jabra hated,0
+1348,wash plates,1
+1349,loudspeaker option great bumpers lights appealing,0
+1350,english homework,1
+1351,shop groceries,1
+1352,says,0
+1353,opens battery connection broken device turned,0
+1354,great product,0
+1355,1 works 2 comfortable,0
+1356,reception terrible full static,0
+1357,comfortable hand,0
+1358,kept well,0
+1359,file browser offers options one needshandsfree great,0
+1360,found product waaay big,0
+1361,really good far probably best bt headset ever,0
+1362,create dll,1
+1363,didnt want clip going top ear causing discomfort,0
+1364,buy bread bakery,1
+1365,utter crap sound quality terrible,0
+1366,ear loop needed tiny sound great,0
+1367,deliver friends food,1
+1368,like design look jabra behing ear headsets 5020 pretty comfortible wear 24 hours day without pain ear,0
+1369,nice case feels good hands,0
+1370,babysit,1
+1371,drive mother father tourist spot,1
+1372,ive nearly 2 years worked great,0
+1373,theres really nothing bad say headset,0
+1374,buy coupon bonds manila paper,1
+1375,im trying return refund,0
+1376,dont make mistake please dont buy phone,0
+1377,setting chairs venue,1
+1378,recently problems could stay connected 10 minutes disconnected,0
+1379,hail taxi,1
+1380,best bluetooth market,0
+1381,im happy purchase good quality low price,0
+1382,warning stay away,0
+1383,carrying heavy luggage,1
+1384,plantronics bluetooth excelent buy,0
