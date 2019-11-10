@@ -1,7 +1,7 @@
 import os
 os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz2.38/bin'
 
-from datetime import datetime
+from timestamp import *
 
 from keras import layers
 from keras.layers import Dense
@@ -92,10 +92,7 @@ def test_model(model, tokens_test, labels_test):
     return test_acc
 
 def save_model(model, train_acc, test_acc, save_threshold = 0):
-    now = datetime.now()
-    date_str = now.strftime("%d-%m-%Y %H-%M-%S")
     model_name = get_acc(train_acc) + " " + get_acc(test_acc) + " " + str(date_str);
-
     model_dir="../models/"
 
     test_train_avg = avg_accuracy(train_acc, test_acc)
