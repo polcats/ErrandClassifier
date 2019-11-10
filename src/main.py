@@ -1,5 +1,6 @@
 
 from data_preprocessor import *
+from input import *
 from model import *
 
 current_model = "../models/90s/97.8 100. 95.6 10-11-2019 07-37-39.hdf5"
@@ -59,21 +60,6 @@ def print_actions():
     print("5. Multiple retrain and save final result")
     print("6. Show current model summary")
     print("\n")
-
-def get_input(msg, min = None, max = None, mode = int):
-    inp = -1;
-    while inp == -1:
-        try:
-            inp = mode(input(msg))
-            if min != None and max != None:
-                if inp < min or inp > max:
-                    inp = -1
-                    print("Min:Max values are " + str(min) + ":" + str(max))
-        except:
-            inp = -1
-            print("Invalid character, please try again.")
-    return inp
-
 
 while True:
     print_actions()

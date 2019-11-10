@@ -1,3 +1,4 @@
+from input import *
 import pandas as pd
 from nltk.corpus import stopwords
 
