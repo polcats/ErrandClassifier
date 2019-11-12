@@ -97,7 +97,7 @@ def save_model(model, train_acc, test_acc, save_threshold = 0):
 
     test_train_avg = avg_accuracy(train_acc, test_acc)
     if float(test_train_avg) >= save_threshold:
-        model_dir += "90s/"
+        model_dir += "threshold_target/"
         model.save(str(model_dir) + "" + str(test_train_avg) + " " + str(model_name) + ".hdf5")
 
 def retrain_model(file_name, data_training, times = 1):
