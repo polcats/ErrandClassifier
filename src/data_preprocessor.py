@@ -9,4 +9,4 @@ stop = stopwords.words('english')
 data_training['sentence'] = data_training.sentence.str.replace("[^\w\s]", "").str.lower()
 data_training['sentence'] = data_training['sentence'].apply(
     lambda x: ' '.join([item for item in x.split() if item not in stop]))
-data_training.to_csv('../data/preprocessed_v2.txt')
+# data_training.to_csv('../data/preprocessed_v2.txt')

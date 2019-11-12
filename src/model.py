@@ -13,12 +13,14 @@ from keras.preprocessing.sequence import pad_sequences
 from sklearn.model_selection import train_test_split
 from sklearn.utils import shuffle
 
+
 epochs = 10
 batch_size = 10
 maxlen = 100
 embedding_dim = 50
 num_filters = 32
 kernel_size = 3
+current_model = ""
 
 def generate_model(data_training, save_threshold = 0):
     model, train_acc, test_acc = train_model(data_training);
@@ -92,15 +94,21 @@ def test_model(model, tokens_test, labels_test):
     return test_acc
 
 def save_model(model, train_acc, test_acc, save_threshold = 0):
+    global current_model
     model_name = get_acc(train_acc) + " " + get_acc(test_acc) + " " + str(date_str);
     model_dir="../models/"
 
     test_train_avg = avg_accuracy(train_acc, test_acc)
     if float(test_train_avg) >= save_threshold:
         model_dir += "threshold_target/"
-        model.save(str(model_dir) + "" + str(test_train_avg) + " " + str(model_name) + ".hdf5")
+        filename = str(model_dir) + "" + str(test_train_avg) + " " + str(model_name) + ".hdf5"
+        model.save(filename)
+        current_model = filename
+        print("Current model : " + str(current_model))
 
-def retrain_model(file_name, data_training, times = 1):
+def retrain_model(data_training, times = 1, file_name = None):
+    file_name = get_current_model(file_name)
+
     model = load_handler(file_name)
     if model == False:
         return
@@ -116,7 +124,9 @@ def retrain_model(file_name, data_training, times = 1):
 
     save_model(model, train_acc, test_acc)
 
-def model_summary(file_name):
+def model_summary(file_name = None):
+    file_name = get_current_model(file_name)
+
     model = load_handler(file_name)
     if model == False:
         return
@@ -127,8 +137,15 @@ def load_handler(file_name):
         model = load_model(file_name)
         return model
     except:
-        print("Error: Cannot load the model")
+        print("Error: Cannot load the model " + str(file_name))
         return False
+
+def get_current_model(file_name):
+    global current_model
+    if file_name == None:
+        return current_model
+    else:
+        return file_name
 
 def avg_accuracy(train_acc, test_acc):
      return str(((train_acc + test_acc) * 100) / 2.0)[0:4]
