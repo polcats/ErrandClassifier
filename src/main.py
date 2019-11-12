@@ -1,5 +1,4 @@
 
-from data_preprocessor import *
 from input import *
 from model import *
 
@@ -33,7 +32,7 @@ def do_action(inp):
     elif inp == 7:
         # predict_file = get_input("Please enter the file name: ", mode = str)
         # model = load_handler("")
-        model_predict(predict_file = "../data/jobs.csv", model_file = "../models/threshold_target/98.2 100. 96.5 12-11-2019 16-36-00.hdf5");
+        model_filter_errands(predict_file = "../data/jobs.csv", model_file = "../models/threshold_target/base.hdf5");
     else:
         print("Invalid input.")
 
@@ -52,4 +51,5 @@ def print_actions():
 while True:
     print_actions()
     do_action(int(get_input("Please choose what to do: ")))
+
 

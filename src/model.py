@@ -2,6 +2,7 @@ import os
 os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz2.38/bin'
 
 from timestamp import *
+from data_preprocessor import *
 
 from keras import layers
 from keras.layers import Dense
@@ -13,6 +14,7 @@ from keras.preprocessing.sequence import pad_sequences
 from sklearn.model_selection import train_test_split
 from sklearn.utils import shuffle
 import pandas as pd
+import numpy as np
 
 
 epochs = 10
@@ -121,67 +123,6 @@ def model_summary(file_name = None):
         return
     model.summary()
 
-# def model_predict(predict_file, model = None, model_file = None):
-#     if model == None:
-#         if model_file == None:
-#             print("Model file not found.")
-#             return
-#         model = load_handler(model_file)
-#         if model == False:
-#             return
-#     model.summary()
-
-#     predict_data = pd.read_csv(predict_file, names=['sentence','labels'], sep='~')
-#     tokens_predict = predict_data['sentence'].values
-#     tokens_labels = predict_data['labels'].values
-
-#     a, test_predict, c, d = train_test_split(tokens_predict, tokens_labels, test_size=1, random_state=1000)
-
-#     # print(test_predict)
-
-#     # print(a)
-#     # print(c)
-#     # print(d)
-
-#     tokenizer = Tokenizer(num_words=5000)
-#     tokenizer.fit_on_texts(test_predict)
-#     predict = tokenizer.texts_to_sequences(test_predict)
-#     predict = pad_sequences(predict, padding='post', maxlen=maxlen)
-
-#     print(predict)
-
-#     predictions = model.predict_classes(predict)
-#     # # for i in range(15):
-#     print(predictions)
-
-
-def model_predict(predict_file, model = None, model_file = None):
-    if model == None:
-        if model_file == None:
-            print("Model file not found.")
-            return
-        model = load_handler(model_file)
-        if model == False:
-            return
-    model.summary()
-
-    predict_data = pd.read_csv(predict_file, names=['sentence','labels'], sep='~')
-    tokens_predict = predict_data['sentence'].values
-    tokens_labels = predict_data['labels'].values
-
-    _, test_predict, _, _ = train_test_split(tokens_predict, tokens_labels, test_size=10, random_state=1000)
-
-    tokenizer = Tokenizer(num_words=5000)
-    tokenizer.fit_on_texts(test_predict)
-    predict = tokenizer.texts_to_sequences(test_predict)
-    predict = pad_sequences(predict, padding='post', maxlen=maxlen)
-
-    # print(predict)
-
-    predictions = model.predict_classes(predict)
-    for i in range(10):
-        print('%s => %d' % (tokens_predict[i], predictions[i]))
-
 def load_handler(file_name):
     try:
         model = load_model(file_name)
@@ -208,3 +149,37 @@ def print_accuracy(train_acc, test_acc):
 
 def get_acc(acc):
     return str(acc * 100)[0:4]
+
+def model_filter_errands(predict_file, model = None, model_file = None, show_summary = False):
+    global stop
+
+    if model == None:
+        if model_file == None:
+            print("Model file not found.")
+            return
+        model = load_handler(model_file)
+        if model == False:
+            return
+
+    if show_summary == True:
+        model.summary()
+
+    predict_data = pd.read_csv(predict_file, names=['sentence', 'label'], sep='~')
+    # predict_data['sentence'] = predict_data['sentence'].apply(
+    #     lambda x: ' '.join([item for item in x.split() if item not in stop]))
+
+    tokens_predict = predict_data['sentence'].values
+
+    tokens_batch_size = int(len(tokens_predict) / 100)
+    token_batch = np.array_split(tokens_predict, tokens_batch_size)
+
+    for i in range(len(token_batch)):
+        tokenizer = Tokenizer(num_words=5000)
+        tokenizer.fit_on_texts(token_batch[i])
+        predict = tokenizer.texts_to_sequences(token_batch[i])
+        predict = pad_sequences(predict, padding='post', maxlen=maxlen)
+
+        predictions = model.predict_classes(predict, batch_size=100)
+        for j in range(len(token_batch[i])):
+            if predictions[j] == 1:
+                print('%d : %s' % (predictions[j], token_batch[i][j]))

@@ -11,11 +11,8 @@ data_errands = pd.read_csv(file_errands, names=['sentence', 'label'], sep='~')
 data_errands_v2 = pd.read_csv(file_errands_v2, names=['sentence', 'label'], sep='~')
 data_non_errands = pd.read_csv(file_non_errands, names=['sentence', 'label'], sep='~')
 
-
 # combined data
 df = pd.concat([data_errands, data_non_errands, data_errands_v2])
-
-
 
 # shuffle and save combined data set
 df = shuffle(df)
