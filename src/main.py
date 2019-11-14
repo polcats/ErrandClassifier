@@ -32,7 +32,8 @@ def do_action(inp):
     elif inp == 7:
         # predict_file = get_input("Please enter the file name: ", mode = str)
         # model = load_handler("")
-        model_filter_errands(predict_file = "../data/jobs.csv", model_file = "../models/threshold_target/base.hdf5");
+        errands = model_filter_errands(predict_file = "../tmp/errandtaskdeliveryteach.csv", model_file = "../models/threshold_target/base.hdf5");
+        save_filtered_errands(errands)
     else:
         print("Invalid input.")
 

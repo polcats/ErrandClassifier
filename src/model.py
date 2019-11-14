@@ -173,6 +173,7 @@ def model_filter_errands(predict_file, model = None, model_file = None, show_sum
     tokens_batch_size = int(len(tokens_predict) / 100)
     token_batch = np.array_split(tokens_predict, tokens_batch_size)
 
+    errands = set()
     for i in range(len(token_batch)):
         tokenizer = Tokenizer(num_words=5000)
         tokenizer.fit_on_texts(token_batch[i])
@@ -180,6 +181,21 @@ def model_filter_errands(predict_file, model = None, model_file = None, show_sum
         predict = pad_sequences(predict, padding='post', maxlen=maxlen)
 
         predictions = model.predict_classes(predict, batch_size=100)
+
         for j in range(len(token_batch[i])):
             if predictions[j] == 1:
                 print('%d : %s' % (predictions[j], token_batch[i][j]))
+                errands.add("\n" + str(predictions[j]) + " : " + str(token_batch[i][j]))
+
+    return errands
+
+def save_filtered_errands(errands):
+    saveFile = open('../outputs/filtered ' + str(date_str) + '.csv', 'a+', encoding="utf-8")
+
+    try:
+        for errand in errands:
+            saveFile.write(str(errand))
+    except:
+        pass
+
+    saveFile.close()

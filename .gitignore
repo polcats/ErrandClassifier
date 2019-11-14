@@ -1,0 +1,10 @@
+# Directory
+__pycache__/
+tmp/
+outputs/
+
+
+# Files
+preprocessed*
+*.png
+*.hdf5
