@@ -1,10 +1,12 @@
 # ErrandClassifier
 
-<h1>This section is currently under construction.</h1>
+<h2></h2>
+
+
 
 <h2>Requirements</h2>
 <p>
-	Below are the list of the things you need installed and properly set up to run this classifier.
+	Below are the list of the things you need installed and properly set up to run this program.
 </p>
 
 <h4>Packages</h4>
@@ -19,10 +21,12 @@
 
 <h4>Others</h4>
 <p>
-	You also need to install the nltk stopwords via<br>
+	You also need to install the nltk stopwords. In your command line:<br>
 	<em>python<br> >>> import nltk <br> >>> nltk.download('stopwords')</em>
 </p>
+
 <h2>Usage</h2>
 <p>
 	Run the program via <em>python main.py</em>
 </p>
+
