@@ -1,6 +1,11 @@
 
 from input import *
-from model import *
+from model import generate_model
+from model import retrain_model
+from model import model_summary
+from model import data_training
+from model import model_filter_errands
+from model import save_filtered_errands
 
 def do_action(inp):
     if inp == 0:
@@ -28,11 +33,11 @@ def do_action(inp):
         runs = int(get_input("How many loops do you want to do?: ", 1, 100))
         retrain_model(data_training, runs)
     elif inp == 6:
-        model_summary();
+        model_summary()
     elif inp == 7:
         # predict_file = get_input("Please enter the file name: ", mode = str)
         # model = load_handler("")
-        errands = model_filter_errands(predict_file = "../tmp/errandtaskdeliveryteach.csv", model_file = "../models/threshold_target/base.hdf5");
+        errands = model_filter_errands(predict_file = "../tmp/errandtaskdeliveryteach.csv", model_file = "../models/threshold_target/base.hdf5")
         save_filtered_errands(errands)
     else:
         print("Invalid input.")

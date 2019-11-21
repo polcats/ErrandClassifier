@@ -1,5 +1,5 @@
 def get_input(msg, min = None, max = None, mode = int):
-    inp = -1;
+    inp = -1
     while inp == -1:
         try:
             inp = mode(input(msg))

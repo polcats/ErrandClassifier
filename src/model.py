@@ -1,8 +1,8 @@
 import os
 os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz2.38/bin'
 
-from timestamp import *
-from data_preprocessor import *
+from timestamp import date_str
+from data_preprocessor import data_training
 
 from keras import layers
 from keras.layers import Dense
@@ -26,7 +26,7 @@ kernel_size = 3
 current_model = ""
 
 def generate_model(data_training, save_threshold = 0):
-    model, train_acc, test_acc = train_model(data_training);
+    model, train_acc, test_acc = train_model(data_training)
     print_accuracy(train_acc, test_acc)
     save_model(model, train_acc, test_acc, save_threshold)
 
@@ -86,7 +86,7 @@ def test_model(model, tokens_test, labels_test):
 
 def save_model(model, train_acc, test_acc, save_threshold = 0):
     global current_model
-    model_name = get_acc(train_acc) + " " + get_acc(test_acc) + " " + str(date_str);
+    model_name = get_acc(train_acc) + " " + get_acc(test_acc) + " " + str(date_str)
     model_dir="../models/"
 
     test_train_avg = avg_accuracy(train_acc, test_acc)
@@ -151,7 +151,7 @@ def get_acc(acc):
     return str(acc * 100)[0:4]
 
 def model_filter_errands(predict_file, model = None, model_file = None, show_summary = False):
-    global stop
+    # global stop
 
     if model == None:
         if model_file == None:
