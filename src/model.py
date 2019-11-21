@@ -156,15 +156,20 @@ def model_filter_errands(predict_file, model = None, model_file = None, show_sum
     if model == None:
         if model_file == None:
             print("Model file not found.")
-            return
+            return False
         model = load_handler(model_file)
         if model == False:
-            return
+            return False
 
     if show_summary == True:
         model.summary()
 
-    predict_data = pd.read_csv(predict_file, names=['sentence', 'label'], sep='~')
+    predict_data = ""
+
+    try:
+        predict_data = pd.read_csv(predict_file, names=['sentence', 'label'], sep='~')
+    except:
+        return False
     # predict_data['sentence'] = predict_data['sentence'].apply(
     #     lambda x: ' '.join([item for item in x.split() if item not in stop]))
 
@@ -190,6 +195,10 @@ def model_filter_errands(predict_file, model = None, model_file = None, show_sum
     return errands
 
 def save_filtered_errands(errands):
+    if errands == False:
+        print("Cannot save filtered errands.")
+        return
+
     saveFile = open('../outputs/filtered ' + str(date_str) + '.csv', 'a+', encoding="utf-8")
 
     try:

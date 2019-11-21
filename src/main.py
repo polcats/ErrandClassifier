@@ -20,7 +20,7 @@ def do_action(inp):
             runs = runs - 1
             avg_acc = float(generate_model(data_training, acc))
             if avg_acc >= acc:
-            	print("Target model with accuracy " + str(acc) + " generated.")
+            	print("Target model with accuracy >=" + str(acc) + " generated.")
             	break
     elif inp == 3:
         retrain_model(data_training)
