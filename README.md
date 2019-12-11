@@ -5,11 +5,6 @@
 
 
 <h2>Requirements</h2>
-<p>
-	Below are the list of the things you need installed and properly set up to run this program.
-</p>
-
-<h4>Packages</h4>
 <ul>
 	<li><a href="https://www.tensorflow.org/install">Tensorflow</a></li>
 	<li><a href="https://pypi.org/project/Keras/">Keras</a></li>
@@ -21,7 +16,7 @@
 
 <h4>Others</h4>
 <p>
-	You also need to install the nltk stopwords. In your command line:<br>
+	To install the nltk stopwords. In your command line:<br>
 	<em>python<br> >>> import nltk <br> >>> nltk.download('stopwords')</em>
 </p>
 
